@@ -1,0 +1,6 @@
+/vendor/
+
+# Assets and user uploads
+/web/bundles/
+
+/app/cache
